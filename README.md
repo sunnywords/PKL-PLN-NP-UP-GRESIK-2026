@@ -57,4 +57,4 @@ Dashboard web digunakan untuk memantau data secara real-time dan melakukan anali
 
 ---
 
-**Dibuat dengan ❤️ untuk Kompetisi IoT Lomba**
+**Dibuat dengan ❤️ untuk PKL**
