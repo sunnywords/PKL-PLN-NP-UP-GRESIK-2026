@@ -57,4 +57,4 @@ Dashboard web digunakan untuk memantau data secara real-time dan melakukan anali
 
 ---
 
-**Dibuat dengan ❤️ untuk PKL**
+**Dibuat dengan ❤️ untuk PKL. Credits to @fanTaux and @alvinrw**
